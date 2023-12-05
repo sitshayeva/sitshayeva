@@ -41,3 +41,5 @@
 📚 **Continuous Learning:**
 I'm dedicated to staying ahead in the field, regularly updating my skills through various programs and experiences.
                                             
+
+![Stats](https://github-readme-stats.vercel.app/api?username=sitshayeva&show_icons=true&theme=radical)
