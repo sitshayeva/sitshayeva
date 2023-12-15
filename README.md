@@ -3,6 +3,7 @@
 🔍 Problem Solver | Analytical | Business-Minded | Detail-Oriented | Decisive
 
 👋 I'm Lenara Sitshayeva, an IT pro with 7+ years in Data Engineering & Analytics. 
+
 Starting as a Database Manager, I've grown into an adept Data Engineer, skilled in Database Management, Data Warehousing, and Visualization.
 
 💡 I'm committed to learning, proficient in SQL, Python, Tableau, Power BI, and exploring Data Science, including Machine Learning and NLP.
@@ -11,37 +12,37 @@ Starting as a Database Manager, I've grown into an adept Data Engineer, skilled 
 
 💼 Experience:
 
-Data Analyst: Utilized SQL, Python, Tableau for optimization and insights.
-Data Engineer: Developed data models, managed ETL pipelines.
-Database Manager: Implemented tracking systems, improved data accuracy.
-Business Analyst: Enhanced processes, informed strategic planning.
+- Data Analyst: Utilized SQL, Python, Tableau for optimization and insights.
+- Data Engineer: Developed data models, managed ETL pipelines.
+- Database Manager: Implemented tracking systems, improved data accuracy.
+- Business Analyst: Enhanced processes, informed strategic planning.
 
 🎓 Education:
 
-Ph.D. in Quantitative Analysis in Finance
-MSc & BSc in Economic Cybernetics (Distinction)
-Business Analysis in IT Certification
-Data Analytics Skills Bootcamp (Level 3) - Babington
-Data Science Fundamentals 6-month Program - HyperionDev
-Data Science 12-month Program - Turing College
+- Ph.D. in Quantitative Analysis in Finance
+- MSc & BSc in Economic Cybernetics (Distinction)
+- Business Analysis in IT Certification
+- Data Analytics Skills Bootcamp (Level 3) - Babington
+- Data Science Fundamentals 6-month Program - HyperionDev
+- Data Science 12-month Program - Turing College
 
 🛠️ Skills:
 
-Languages: SQL, Python
-Tools: Tableau, Power BI, Databricks, etc.
-Databases: MySQL, PostgreSQL, MS SQL, NoSQL
-Big Data: Hive, Kafka, Airflow
-Cloud: AWS, Google BigQuery, Azure
-Version Control: GitHub
+- Languages: SQL, Python
+- Tools: Tableau, Power BI, Databricks, etc.
+- Databases: MySQL, PostgreSQL, MS SQL, NoSQL
+- Big Data: Hive, Kafka, Airflow
+- Cloud: AWS, Google BigQuery, Azure
+- Version Control: GitHub, BitBucket
 
 🌟 Certifications:
 
-Google Advanced Data Analytics Professional
-IBM Data Analytics Program 
-Data Analytics Program, 365 Data Science
-Google Business Intelligence 
-Google Project Management Professional
-AWS Cloud Practitioner
+- Google Advanced Data Analytics Professional
+- IBM Data Analytics Program 
+- Data Analytics Program, 365 Data Science
+- Google Business Intelligence 
+- Google Project Management Professional
+- AWS Cloud Practitioner
 
 📚 Continuous Learning:
 Actively upgrading skills through various programs and experiences.
