@@ -51,7 +51,7 @@ Actively upgrading skills through various programs and experiences.
 
                                             
 <div style="background-color: #FFC107; padding: 20px;">
-  <h1 style="color: #FFF;">CONTACTS</h1>
+  <h1 style="color: #FFF;">PROFILES</h1>
 </div>
 
 [LinkedIn](https://www.linkedin.com/in/lenara-sitshayeva/)| [365 Data Science](learn.365financialanalyst.com/profile/lenara-sitshayeva-phd/)| [DataCamp](https://www.datacamp.com/profile/LenaraSitshayeva)|
