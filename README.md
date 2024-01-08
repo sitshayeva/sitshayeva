@@ -50,5 +50,17 @@ Actively upgrading skills through various programs and experiences.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
                                             
+<div style="background-color: #FFC107; padding: 20px;">
+  <h1 style="color: #FFF;">CONTACTS</h1>
+</div>
+
+[LinkedIn](https://www.linkedin.com/in/lenara-sitshayeva/)| [365 Data Science](learn.365financialanalyst.com/profile/lenara-sitshayeva-phd/)| [DataCamp](https://www.datacamp.com/profile/LenaraSitshayeva)|
+[Kaggle](https://www.kaggle.com/lenarasitshayeva)  | [Credly](https://www.credly.com/users/lenara-sitshayeva)  | [Medium](https://medium.com/@sitshayeva)|
+[Tableau](https://public.tableau.com/app/profile/lenara.sitshayeva) | [Google Colab](https://drive.google.com/drive/folders/1hDZrSDr9H5a28IoPMrSnel6Gb2EZWeSX?usp=share_link) |
+[GitHub](https://github.com/sitshayeva)   | [Dags Hub](https://dagshub.com/sitshayeva)  | [Jovian](https://jovian.com/sitshayeva) |
+[Data World](https://data.world/lenara)  | [Codewars](https://www.codewars.com/users/sitshayeva) | [Bitbucket](https://bitbucket.org/lenara_sitshayeva) |
+[HackerRank](https://www.hackerrank.com/sitshayeva) | [AWS Certified Global Community](https://aws-certification.influitive.com/profiles/16874b24-62d0-4fbf-a9c8-c436a252cae0) | [Maven Analytics](https://mavenanalytics.io/profile/Lenara-Sitshayeva-Ph.D./96089275)| [Google Scholar](https://scholar.google.com/citations?user=rzpnW-kAAAAJ&hl=en)   | [Replit](https://replit.com/@sitshayeva)|      
+
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sitshayeva&show_icons=true&theme=radical)
+
