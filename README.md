@@ -31,7 +31,7 @@ Starting as a Database Manager, I've grown into an adept Data Engineer, skilled 
 🛠️ Skills:
 
 - Languages: SQL, Python
-- Tools: Tableau, Power BI, Databricks, etc.
+- Tools: Tableau, Power BI, Databricks, Alteryx, etc.
 - Databases: MySQL, PostgreSQL, MS SQL, NoSQL
 - Big Data: Hive, Kafka, Airflow
 - Cloud: AWS, Google BigQuery, Azure
