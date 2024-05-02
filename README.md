@@ -25,7 +25,8 @@ Starting as a Database Manager, I've grown into an adept Data Engineer, skilled 
 - MSc & BSc in Economic Cybernetics (Distinction)
 - Business Analysis in IT Certification
 - Data Analytics Skills Bootcamp (Level 3) - Babington
-- Data Analytics Skills Bootcamp (Level 3) Introduction to Data Analyst (Data Base Design, Excel, Power BI, Python, SQL, Tableau, Trifacta) - Apprentify
+- Data Analytics Skills Bootcamp (Level 3) Introduction to Data Analyst (Data Base Design, Excel,
+  Power BI, Python, SQL, Tableau, Trifacta) - Apprentify
 - Data Science Fundamentals Program - HyperionDev
 - Data Science Skills Program - Turing College
 
