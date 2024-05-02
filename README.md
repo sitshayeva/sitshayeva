@@ -2,7 +2,7 @@
 
 🔍 Problem Solver | Analytical | Business-Minded | Detail-Oriented | Decisive
 
-📁 [View My Portfolio](https://github.com/sitshayeva/portfolio)
+📁 [View My Portfolio](https://sitshayeva.github.io/portfolio/)
 
 👋 I'm Lenara Sitshayeva, an IT pro with 7+ years in Data Engineering & Analytics. 
 
