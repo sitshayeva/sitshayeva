@@ -14,7 +14,6 @@
 [HackerRank](https://www.hackerrank.com/sitshayeva) | [AWS Certified Global Community](https://aws-certification.influitive.com/profiles/16874b24-62d0-4fbf-a9c8-c436a252cae0) | [Maven Analytics](https://mavenanalytics.io/profile/Lenara-Sitshayeva-Ph.D./96089275)| [Google Scholar](https://scholar.google.com/citations?user=rzpnW-kAAAAJ&hl=en)   | [Replit](https://replit.com/@sitshayeva)|      
 
 <div style="background-color: #FFC107; padding: 20px;">
-  <h1 style="color: #FFF;">PROFILES</h1>
 </div>
 
 
