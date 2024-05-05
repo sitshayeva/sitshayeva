@@ -16,7 +16,7 @@
 </div>
 
 
-📁 [View My Portfolio]([https://sitshayeva.github.io/portfolio/](https://github.com/sitshayeva/portfolio))
+📁 [View My Portfolio](https://github.com/sitshayeva/portfolio)
 
 👋 I'm Lenara Sitshayeva, an IT pro with 7+ years in Data Engineering & Analytics. 
 
