@@ -104,3 +104,11 @@ Actively upgrading skills through various programs and experiences.
 
                                             
 ![Stats](https://github-readme-stats.vercel.app/api?username=sitshayeva&show_icons=true&theme=radical)
+
+
+<br>
+
+<p style="display: flex; justify-content: space-between;">
+    <img alt="coding" width="400" src="[gifs/data_scientist.gif](https://github.com/sitshayeva/portfolio/blob/main/gifs/data_scientist.gif)">
+</p>
+
