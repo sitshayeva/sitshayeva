@@ -78,7 +78,7 @@ Starting as a Database Manager, I've grown into an adept Data Engineer, skilled 
     </div>
     <div style="flex: 1;">
         <p style="text-align: right;">
-            <img alt="coding" width="100" src="https://github.com/sitshayeva/portfolio/blob/main/gifs/data_scientist.gif">
+            <img alt="coding" width="400" src="https://github.com/sitshayeva/portfolio/blob/main/gifs/data_scientist.gif">
         </p>
     </div>
 </div>
