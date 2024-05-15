@@ -26,7 +26,7 @@
 
 📁 [View My Portfolio](https://github.com/sitshayeva/portfolio)
 
-👋 I'm Lenara Sitshayeva, an IT pro with 7+ years in Data Engineering & Analytics. 
+👩🏻‍💻 7+ years in Data Engineering & Analytics. 
 
 Starting as a Database Manager, I've grown into an adept Data Engineer, skilled in Database Management, Data Warehousing, and Visualization.
 
