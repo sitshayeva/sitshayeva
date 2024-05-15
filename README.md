@@ -36,41 +36,53 @@ Starting as a Database Manager, I've grown into an adept Data Engineer, skilled 
 
 <br>
 
-💼 Experience:
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <p style="text-align: left;">
+            💼 Experience:
+            <ul>
+                <li>Data Analyst: Utilized SQL, Python, Tableau for optimization and insights.</li>
+                <li>Data Engineer: Developed data models, managed ETL pipelines.</li>
+                <li>Database Manager: Implemented tracking systems, improved data accuracy.</li>
+                <li>Business Analyst: Enhanced processes, informed strategic planning.</li>
+            </ul>
+            🎓 Education:
+            <ul>
+                <li>Ph.D. in Economic Sciences (Money, Finance and Credit)</li>
+                <li>MSc & BSc in Economic Cybernetics (Honours)</li>
+                <li>Business Analysis in IT Certification - InfoPulse</li>
+                <li>Data Analytics Skills Bootcamp (Level 3) - Babington</li>
+                <li>Data Analytics Skills Bootcamp (Level 3) Introduction to Data Analyst (Data Base Design, Excel, Power BI, Python, SQL, Tableau, Trifacta) - Apprentify</li>
+                <li>Data Science Fundamentals Program - HyperionDev</li>
+                <li>Data Science Skills Program - Turing College</li>
+            </ul>
+            🛠️ Skills:
+            <ul>
+                <li>Languages: SQL, Python</li>
+                <li>Tools: Tableau, Power BI, Databricks, Alteryx, etc.</li>
+                <li>Databases: MySQL, PostgreSQL, MS SQL, NoSQL</li>
+                <li>Big Data: Airflow, Spark</li>
+                <li>Cloud: AWS, GCP, MS Azure</li>
+                <li>Version Control: GitHub, BitBucket</li>
+            </ul>
+            🌟 Certifications:
+            <ul>
+                <li>Google Advanced Data Analytics Professional</li>
+                <li>IBM Data Analytics Program</li>
+                <li>Data Analytics Program, 365 Data Science</li>
+                <li>Google Business Intelligence</li>
+                <li>Google Project Management Professional</li>
+                <li>AWS Cloud Practitioner</li>
+            </ul>
+        </p>
+    </div>
+    <div style="flex: 1;">
+        <p style="text-align: right;">
+            <img alt="coding" width="100" src="https://github.com/sitshayeva/portfolio/blob/main/gifs/data_scientist.gif">
+        </p>
+    </div>
+</div>
 
-- Data Analyst: Utilized SQL, Python, Tableau for optimization and insights.
-- Data Engineer: Developed data models, managed ETL pipelines.
-- Database Manager: Implemented tracking systems, improved data accuracy.
-- Business Analyst: Enhanced processes, informed strategic planning.
-
-🎓 Education:
-
-- Ph.D. in Economic Sciences (Money, Finance and Credit)
-- MSc & BSc in Economic Cybernetics (Honours)
-- Business Analysis in IT Certification - InfoPulse
-- Data Analytics Skills Bootcamp (Level 3) - Babington
-- Data Analytics Skills Bootcamp (Level 3) Introduction to Data Analyst (Data Base Design, Excel,
-  Power BI, Python, SQL, Tableau, Trifacta) - Apprentify
-- Data Science Fundamentals Program - HyperionDev
-- Data Science Skills Program - Turing College
-
-🛠️ Skills:
-
-- Languages: SQL, Python
-- Tools: Tableau, Power BI, Databricks, Alteryx, etc.
-- Databases: MySQL, PostgreSQL, MS SQL, NoSQL
-- Big Data: Airflow, Spark
-- Cloud: AWS, GCP, MS Azure
-- Version Control: GitHub, BitBucket
-
-🌟 Certifications:
-
-- Google Advanced Data Analytics Professional
-- IBM Data Analytics Program 
-- Data Analytics Program, 365 Data Science
-- Google Business Intelligence 
-- Google Project Management Professional
-- AWS Cloud Practitioner
 
 <br>
 
@@ -105,10 +117,4 @@ Actively upgrading skills through various programs and experiences.
                                             
 ![Stats](https://github-readme-stats.vercel.app/api?username=sitshayeva&show_icons=true&theme=radical)
 
-
-<br>
-
-<p style="display: flex; justify-content: space-between;">
-    <img alt="coding" width="100" src="https://github.com/sitshayeva/portfolio/blob/main/gifs/data_scientist.gif">
-</p>
 
