@@ -85,3 +85,17 @@ Actively upgrading skills through various programs and experiences.
                                             
 ![Stats](https://github-readme-stats.vercel.app/api?username=sitshayeva&show_icons=true&theme=radical)
 
+<br>
+
+## ⚡ Activity Graph :: 
+
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sitshayeva&theme=gotham&hide_border=true"/>
+
+## 🏆 GitHub Trophies ::
+
+![](https://github-profile-trophy.vercel.app/?username=sitshayeva&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+
+
+<br>
+
+
