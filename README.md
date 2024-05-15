@@ -109,6 +109,6 @@ Actively upgrading skills through various programs and experiences.
 <br>
 
 <p style="display: flex; justify-content: space-between;">
-    <img alt="coding" width="400" src="[gifs/data_scientist.gif](https://github.com/sitshayeva/portfolio/blob/main/gifs/data_scientist.gif)">
+    <img alt="coding" width="400" src="https://github.com/sitshayeva/portfolio/blob/main/gifs/data_scientist.gif">
 </p>
 
