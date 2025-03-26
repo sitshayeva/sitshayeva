@@ -76,7 +76,7 @@ Starting as a Database Manager, I've grown into an adept Data Engineer, skilled 
       </ul>
     </td>
     <td style="vertical-align: top;">
-      <img alt="coding" width="250" src="https://github.com/sitshayeva/portfolio/blob/main/gifs/data_science.gif">
+      <img alt="coding" width="250" src="https://github.com/sitshayeva/portfolio/blob/main/gifs/ds.gif">
     </td>
   </tr>
 </table>
