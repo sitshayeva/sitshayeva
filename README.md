@@ -1,6 +1,7 @@
 <br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Hello+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Lenara+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%9D%F0%9F%92%BB;Data+Enthusiast&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000" alt="Typing SVG">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 
