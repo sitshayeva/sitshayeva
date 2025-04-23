@@ -1,7 +1,7 @@
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+👋🏻+I'm+Lenara+👩🏻‍💻;+Data+Enthusiast+&+Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000" alt="Typing SVG">
-</p>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+ 👋🏻 +I'm + Lenara 👩🏻‍💻; + Data + Enthusiast &%20Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
+</p> 
 
 
 
