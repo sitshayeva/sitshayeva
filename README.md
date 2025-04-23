@@ -1,8 +1,8 @@
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+👋🏻+I'm+Lenara+👩🏻‍💻;+Data+Enthusiast+&+Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+👋🏻+I'm+Lenara+👩🏻‍💻;+Data+Enthusiast+&+Code&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000" alt="Typing SVG">
 </p>
+
 
 
 🚀 Data Engineer & Analytics Expert 📊
