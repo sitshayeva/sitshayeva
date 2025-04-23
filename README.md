@@ -1,8 +1,7 @@
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hello+👋🏻+I'm+Lenara+👩🏻‍💻;Data+Enthusiast&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Hello+%F0%9F%91%8B%F0%9F%8F%BB+I'm+Lenara+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%9D%F0%9F%92%BB;Data+Enthusiast&center=true&width=700&height=50&weight=700&size=25&duration=2000&pause=2000" alt="Typing SVG">
 </p>
-
 
 
 🚀 Data Engineer & Analytics Expert 📊
