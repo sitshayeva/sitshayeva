@@ -75,6 +75,7 @@ Starting as a Database Manager, I've grown into an adept Data Engineer, skilled 
         <li>Google Project Management Professional</li>
         <li>AWS Cloud Practitioner</li>
         <li>dlt ETL Specialist</li>
+        <li>dlt Advanced ETL Specialist</li>
       </ul>
     </td>
     <td style="vertical-align: top;">
